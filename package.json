@@ -1,0 +1,13 @@
+{
+  "name": "shukaaas-balanced-deck-collection",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "author": "Shukaaa",
+  "license": "ISC",
+  "description": "Balatro Mod for adding balanced decks",
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  }
+}
